@@ -7,6 +7,7 @@ As there are both VIS and IR channels, it is possible to create false colour ima
 ## Image data
 Below are the following images and their resolutions delivered by the satellite.
 ![AutoAdjustTest](images/FY_images.png)
+
 ## Image data resolutions
 Channel | Type | Resolution |
 ------------ | ------------- | ------------- |
@@ -15,3 +16,10 @@ Channel | Type | Resolution |
 3 | WV | 2291 x 2501
 4 | IR | 2291 x 2501
 5 | VIS | 9160 x 10004
+
+## Requirements
+To use the CLUT requires the following:
+Name | For | Author | Source
+------------ | ------------- | ------------- | ------------- |
+Decoder | Decodes the S-VISSR data | | 
+GeoSatSignal | Applies the CLUT from a file |  |
