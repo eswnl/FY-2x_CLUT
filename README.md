@@ -1,2 +1,2 @@
-# FY-2x_CLUT
-Add colour to your FY-2x images using CLUT.
+# Adding colour to your FY-2x images.
+As the FY-2x downlinks deliver both VIS and IR, it is possible to add colour to your images.
