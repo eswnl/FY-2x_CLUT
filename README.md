@@ -43,5 +43,16 @@ The signal in SDRSharp is a 1 MHz wide signal and you need to get at least 10 dB
 # Run the decoder
 Use the decoder to get the images by visiting the link above (instructions to use are on the site).
 
-# Download CLUT
-Download the CLUT file from above
+# Download Geosatsignal
+Download the Geosatsignal software from the above link.
+
+# Download the CLUT (colour look up table)
+Download the CLUT and save it in the following folder: x:\Tools\SatSignal\GeoSatSignal
+
+# Settings
+In GeoSatSignal, to apply the CLUT correctly requires correct adjustment. Goto "Options" and "Common setup". Under "WEFAX thermal calibration", use the below values:
+
+Setting | Value 1 | Value 2|
+------------ | ------------- |
+Gain| 150 | 70 |
+Offset | 0 | 50 |
