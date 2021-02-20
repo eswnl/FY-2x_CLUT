@@ -21,5 +21,5 @@ Channel | Type | Resolution |
 To use the CLUT requires the following:
 Name | For | Author | Source
 ------------ | ------------- | ------------- | ------------- |
-Decoder | Decodes the S-VISSR data | | 
-GeoSatSignal | Applies the CLUT from a file |  |
+Decoder | Decodes the S-VISSR data | @aang254| https://github.com/altillimity/S-VISSR-Ingestor
+GeoSatSignal | Applies the CLUT from a file | David Taylor |https://www.satsignal.eu/software/geosatsignal.htm
