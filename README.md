@@ -84,4 +84,4 @@ Then save as 1:1 size.
 ![AutoAdjustTest](images/Applying_CLUT.png)
 
 ### Australia
-![AutoAdjustTest](images/Applying_CLUT.png)
+![AutoAdjustTest](images/clut_vis_6.png)
