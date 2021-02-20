@@ -46,7 +46,7 @@ Use the decoder to get the images by visiting the link above (instructions to us
 ## Invert and Upscale the IR (FY-2x_1)
 
 Open the IR image in your image editor eg. GIMP and invert the image colour so the clouds appear white. In addition the IR image needs to match the pixel size for the visible. In your image editor, upscale the IR to 9160 x 10004 and save as <b>IR.bmp</b>.
-Open the visible FY-2x_5 image and re-save to <b>VIS.bmp</b> file as well as GeoSatSignal needs both of the files to be .bmp
+Open the visible FY-2x_5 image and re-save to <b>VIS.bmp</b> file as GeoSatSignal needs both of the files to be .bmp
 
 ![AutoAdjustTest](images/IR_invert.png)
 
