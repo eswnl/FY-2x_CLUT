@@ -37,3 +37,9 @@ You need to rotate the feed to set the correct skew.
 I use Nooelec Sawbird and SPF5189Z LNA for extra gain (if you need it). I don't think the bias tee output on the Airspy can output enough current to power both LNAs, so you would need to use external +5V supply. I use 4 x NiMH batteries.
 # Signal in SDRSharp
 The signal in SDRSharp is a 1 MHz wide signal and it is recommended to get at least 10 dB SNR for a error free image:
+
+![AutoAdjustTest](images/level_patch.png)
+
+The constellation is BPSK.
+
+![AutoAdjustTest](images/patch antenna.png)
