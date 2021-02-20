@@ -11,11 +11,11 @@ Below are the following images and their resolutions delivered by the satellite.
 ## Image data resolutions
 Channel | Type | Resolution |
 ------------ | ------------- | ------------- |
-1 | IR | 2291 x 2501
-2 | IR | 2291 x 2501
-3 | WV | 2291 x 2501
-4 | IR | 2291 x 2501
-5 | VIS | 9160 x 10004
+FY-2x_1 | IR | 2291 x 2501
+FY-2x_2 | IR | 2291 x 2501
+FY-2x_3 | WV | 2291 x 2501
+FY-2x_4 | IR | 2291 x 2501
+FY-2x_5 | VIS | 9160 x 10004
 
 ## Requirements
 To use the CLUT requires the following:
@@ -42,6 +42,11 @@ The signal in SDRSharp is a 1 MHz wide signal and you need to get at least 10 dB
 
 # Run the decoder
 Use the decoder to get the images by visiting the link above (instructions to use are on the site).
+
+# Invert and Upscale the IR (FY-2x_1)
+
+Open the IR image in your image editor eg. GIMP and invert the image colour so the clouds appear white. In addition the IR image needs to match the pixel size for the visible. In your image editor, upscale the IR to 9160 x 10004 and save as IR.bmp
+Open the visible FY-2x_5 image and make this a .bmp file as well as GeoSatSignal needs both input files to be .bmp
 
 # Download Geosatsignal
 Download the Geosatsignal software from the above link.
