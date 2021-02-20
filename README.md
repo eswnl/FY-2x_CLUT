@@ -66,6 +66,8 @@ Also set the output file as ".TGA".
 ## Settings
 In GeoSatSignal, to apply the CLUT correctly requires correct adjustment. Goto "Options" and "Common setup". Under "WEFAX thermal calibration", use the below values:
 
+![AutoAdjustTest](images/Calibration.png)
+
 Setting | Gain | Offset |
 ------------ | ------------- | ------------- |
 Cloud white top| 150 | 0 |
