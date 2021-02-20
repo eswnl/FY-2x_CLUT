@@ -23,3 +23,7 @@ Name | For | Author | Source
 ------------ | ------------- | ------------- | ------------- |
 Decoder | Decodes the S-VISSR data | @aang254| https://github.com/altillimity/S-VISSR-Ingestor
 GeoSatSignal | Applies the CLUT from a file | David Taylor |https://www.satsignal.eu/software/geosatsignal.htm
+## Instructions
+# Hardware requirements
+You can use a 1.2m or larger dish. The feed skew needs to be set accordingly depending on location. For example in Japan, I need to set the feed skew to 45 degrees.
+I use a patch antenna (shown) as it gives good dish illumination.
