@@ -27,4 +27,5 @@ GeoSatSignal | Applies the CLUT from a file | David Taylor |https://www.satsigna
 # Hardware requirements
 You can use a 1.2m or larger dish. The feed skew needs to be set accordingly depending on location. For example in Japan, I need to set the feed skew to 45 degrees.
 I use a patch antenna (shown) as it gives good dish illumination. You need to rotate the feed to set the correct skew.
-![AutoAdjustTest](images/dish.png)
+![AutoAdjustTest](images/dimension.png)
+![AutoAdjustTest](images/skew.png)
