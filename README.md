@@ -54,7 +54,7 @@ Open the visible FY-2x_5 image and re-save to <b>VIS.bmp</b> file as GeoSatSigna
 Download the Geosatsignal software from the above link.
 
 ## Download the CLUT (colour look up table)
-Download the CLUT and copy it in GeoSatSignal folder below: 
+Download the CLUT above and copy it in GeoSatSignal folder below: 
 ```
 "Tools\SatSignal\GeoSatSignal"
 ```
