@@ -80,7 +80,7 @@ Then save as 1:1 size. The output .TGA will be in GeoSatSignal's folder:
 ```
 "Tools\SatSignal\GeoSatSignal"
 ```
-![AutoAdjustTest](images/GeoSat.png)
+![AutoAdjustTest](images/geoSat.png)
 
 
 ## Example images
