@@ -73,4 +73,6 @@ Cloud cyan top | 70 | 50 |
 
 ![AutoAdjustTest](images/Calibration.png)
 
-## 
+## Example images
+### Full disk
+
