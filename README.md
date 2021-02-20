@@ -59,6 +59,7 @@ Download the CLUT and copy it in GeoSatSignal folder below:
 "Tools\SatSignal\GeoSatSignal"
 ```
 To use the CLUT you need to activate it in "Vis Ch." Set the "Brightness" and "Crispen" to "None".
+Also set the output file as ".TGA".
 
 ![AutoAdjustTest](images/JobSetup.png)
 
