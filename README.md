@@ -75,6 +75,11 @@ Cloud cyan top | 70 | 50 |
 
 ## Input the VIS.bmp and IR.bmp files into GeoSatSignal
 Drag and drop one of the files into the corresponding box (e.g. visible for VIS)
+Then save as 1:1 size. The output .TGA will be in GeoSatSignal's folder: 
+
+```
+"Tools\SatSignal\GeoSatSignal"
+```
 
 ## Example images
 ### Full disk
