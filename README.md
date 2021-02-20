@@ -52,7 +52,7 @@ Download the CLUT and save it in the following folder: x:\Tools\SatSignal\GeoSat
 # Settings
 In GeoSatSignal, to apply the CLUT correctly requires correct adjustment. Goto "Options" and "Common setup". Under "WEFAX thermal calibration", use the below values:
 
-Setting | Value 1 | Value 2|
+Setting | Gain | Offset |
 ------------ | ------------- | ------------- |
-Gain| 150 | 70 |
-Offset | 0 | 50 |
+Cloud white top| 150 | 0 |
+Cloud cyan top | 70 | 50 |
