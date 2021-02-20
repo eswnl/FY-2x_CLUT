@@ -75,4 +75,4 @@ Cloud cyan top | 70 | 50 |
 
 ## Example images
 ### Full disk
-![AutoAdjustTest](images/Applying CLUT.png)
+![AutoAdjustTest](images/Applying_CLUT.png)
