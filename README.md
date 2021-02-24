@@ -68,8 +68,8 @@ In GeoSatSignal, to apply the CLUT correctly requires correct adjustment. Goto "
 
 Setting | Gain | Offset |
 ------------ | ------------- | ------------- |
-Cloud white top| 150 | 0 |
-Cloud cyan top | 70 | 50 |
+Cloud cyan top| 150 | 0 |
+Cloud white top | 70 | 50 |
 
 ![AutoAdjustTest](images/Calibration.png)
 
