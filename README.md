@@ -89,3 +89,6 @@ Then save as 1:1 size.
 
 ### Saudi Arabia
 ![AutoAdjustTest](images/saudi_arabia.png)
+
+## Use with EWS-G1
+Since the EWS-G1 has an IR channel, the above file can be used here. Although you need to play with the settings to get the best results.
