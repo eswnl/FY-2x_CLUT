@@ -92,3 +92,6 @@ Then save as 1:1 size.
 
 ## Use with EWS-G1
 Since the EWS-G1 has an IR channel, in theory the above file can be used here. Although you need to play with the settings to get the best results. Since I cannot receive this satellite, I cannot verify this.
+
+## Credits
+Thanks to <ahref= "https://twitter.com/aang254"</a>@aang254 for his decoder for FY-2x satellites and David Taylor for GeoSatSignal program.
