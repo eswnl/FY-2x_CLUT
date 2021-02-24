@@ -86,3 +86,6 @@ Then save as 1:1 size.
 
 ### Australia
 ![AutoAdjustTest](images/clut_vis_6.png)
+
+### Saudi Arabia
+![AutoAdjustTest](images/clut_vis_6.png)
