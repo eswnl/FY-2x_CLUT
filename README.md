@@ -88,4 +88,4 @@ Then save as 1:1 size.
 ![AutoAdjustTest](images/clut_vis_6.png)
 
 ### Saudi Arabia
-![AutoAdjustTest](images/clut_vis_6.png)
+![AutoAdjustTest](images/saudi_arabia.png)
